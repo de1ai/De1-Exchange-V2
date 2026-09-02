@@ -1,0 +1,13 @@
+node_modules
+build
+test
+.editorconfig
+.prettierrc
+.vscode
+artifacts
+cache
+artifacts-zk
+cache-zk
+.env
+hardhat.network
+hardhat.network.*
